@@ -11,6 +11,7 @@ Source0:	%{name}-%{version}-%{snap}.tar.bz2
 Requires:	xmms
 BuildRequires:	xmms-devel
 BuildRequires:	nbs-devel
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 This is an audio output plugin for XMMS for the Network Broadcast
