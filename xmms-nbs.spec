@@ -3,7 +3,7 @@
 Summary:	NBS Output plugin for XMMS
 Name:		xmms-nbs
 Version:	1.0
-Release:	%mkrel 0.%{snap}.3
+Release:	%mkrel 0.%{snap}.4
 License:	GPL
 Group:		Sound
 URL:		http://www.asterisk.org/
