@@ -6,7 +6,7 @@ Version:	1.0
 Release:	%mkrel 0.%{snap}.4
 License:	GPL
 Group:		Sound
-URL:		http://www.asterisk.org/
+URL:		https://www.asterisk.org/
 Source0:	%{name}-%{version}-%{snap}.tar.bz2
 Requires:	xmms
 BuildRequires:	xmms-devel
