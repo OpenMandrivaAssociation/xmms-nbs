@@ -9,6 +9,7 @@ Group:		Sound
 URL:		https://www.asterisk.org/
 Source0:	%{name}-%{version}-%{snap}.tar.bz2
 Requires:	xmms
+BuildRequires:	make
 BuildRequires:	xmms-devel
 BuildRequires:	nbs-devel
 BuildRoot:	%{_tmppath}/%{name}-buildroot
